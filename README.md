@@ -20,3 +20,7 @@ Cancel Reservation: Admins can cancel a reservation by entering the patient's ID
 View Patient Record: In user mode, there is no password requirement. Users can view patient records by entering the patient's ID. The system displays basic patient information.
 
 View Today’s Reservations: Users can view today's reservations, including the patient ID attached to each reservation slot.
+
+# Video
+[![Click to Watch the Video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAI96tWfg88FTR8omwfJzQh687w9jzgAvhQ&usqp=CAU)](https://www.youtube.com/watch?v=tGc1CG4IDHg)
+
